@@ -11,4 +11,5 @@ I have experience with Python, Java, C++, SQL, and Git/GitHub. I have worked wit
 
 ## Favorite Meme
 
-[Favorite meme](https://i.imgflip.com/30b1gx.jpg)
+[Favorite meme]<img width="1024" height="559" alt="f3ecb2a6-317c-49ee-9f95-faa4775fb993" src="https://github.com/user-attachments/assets/0a9bcd4d-16ea-4035-b8f3-834e74548231" />
+
